@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1928.2791"
+   height="732.01886"
+   id="svg3107"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="R4WO.svg">
+  <defs
+     id="defs3109">
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9147"
+       id="radialGradient9153"
+       cx="497.15872"
+       cy="399.46484"
+       fx="497.15872"
+       fy="399.46484"
+       r="80"
+       gradientTransform="matrix(1.43471,0.0298745,-0.0384297,1.84557,-446.55906,-486.37398)"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient9147">
+      <stop
+         style="stop-color: rgb(252, 254, 254); stop-opacity: 1;"
+         offset="0"
+         id="stop9149" />
+      <stop
+         id="stop9155"
+         offset="0.58195573"
+         style="stop-color: rgb(173, 222, 245); stop-opacity: 1;" />
+      <stop
+         style="stop-color: rgb(0, 150, 218); stop-opacity: 1;"
+         offset="1"
+         id="stop9151" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="950.38198"
+     inkscape:cy="394.57074"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="993"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata3112">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(826.33671,153.21399)">
+    <g
+       id="g3012">
+      <rect
+         y="-152.39526"
+         x="-825.53271"
+         height="730.2998"
+         width="941.70013"
+         id="rect3242"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.60800004;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3236"
+         y="123.79079"
+         x="-360.29581"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:168px;text-align:center;text-anchor:middle;fill:#ffffff"
+           y="123.79079"
+           x="-360.29581"
+           id="tspan3238"
+           sodipodi:role="line">RACE FOR</tspan><tspan
+           style="font-size:260px;text-align:center;text-anchor:middle;fill:#ffffff"
+           id="tspan3240"
+           y="425.4917"
+           x="-360.29581"
+           sodipodi:role="line">W TER</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csscc"
+         id="path9069"
+         d="m -410.4965,365.89344 c 0,38.18593 -30.81757,69.1774 -68.78922,69.1774 -37.97165,0 -68.78922,-30.99147 -68.78922,-69.1774 0,-38.18592 48.69142,-82.45337 68.78922,-144.81135 27.23599,66.85791 68.78922,106.62543 68.78922,144.81135 z"
+         style="fill:#5bc1f3;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <rect
+         y="-153.21399"
+         x="116.61929"
+         height="732.01886"
+         width="985.32306"
+         id="rect3242-7"
+         style="fill:#5bc1f3;fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3292"
+         y="81.056168"
+         x="193.25455"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:110px;fill:#000000;fill-opacity:1"
+           id="tspan3298"
+           y="81.056168"
+           x="193.25455"
+           sodipodi:role="line">A FOUNDATION</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4112"
+         y="254.67836"
+         x="193.00943"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:110px;fill:#000000;fill-opacity:1"
+           y="254.67836"
+           x="193.00943"
+           id="tspan4114"
+           sodipodi:role="line">TO PRESERVE</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4116"
+         y="426.64789"
+         x="188.5417"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:110px;fill:#000000;fill-opacity:1"
+           y="426.64789"
+           x="188.5417"
+           id="tspan4118"
+           sodipodi:role="line">WATER</tspan></text>
+    </g>
+  </g>
+</svg>

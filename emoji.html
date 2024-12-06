@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>emoji</title>
+    <style>
+        #reponse{
+            display:block;              
+        }
+    </style>
+</head>
+<body>
+    <div class='wave'></div>
+    <div class='back_wave'></div>
+    <header>
+        <h1>Ocean 🌊</h1>
+        <nav>
+            <a href="./index.html">🌊</a>
+            <a href="./podcast.html">🎧</a>
+            <a href="./emoji.html">🎮</a>
+        </nav>
+    </header>
+    <section>
+        <h1>Jeu des emoji</h1>
+        <article>
+            <h3>But du jeu : éliminer les conditions mauvaises pour la Terre</h3>
+            <input type="radio" name="q1" onclick="p1=1">⛵<br>
+            <input type="radio" name="q1" onclick="p1=2">♻️<br>
+            <input type="radio" name="q1" onclick="p1=3">🚢<br>
+            <input type="radio" name="q1" onclick="p1=4">🛢️<br>
+            <br>
+            <input type="radio" name="q2" onclick="p2=1">⛵<br>
+            <input type="radio" name="q2" onclick="p2=2">♻️<br>
+            <input type="radio" name="q2" onclick="p2=3">🚢<br>
+            <input type="radio" name="q2" onclick="p2=4">🛢️<br>
+            <script>
+                var p1 = 0;
+                var p2 = 0;
+            </script>
+            <button id="togg1">Résultat</button>
+            <div id="reponse">
+                <p id="t8">🌊🏠🌊</p>
+                <p id="t2">🌏✅</p>        
+                <p id="t4">☠️🐟☠️</p>
+                <p id="t10">🆘🌡️🌏🩻🌡️🆘</p>
+                <p id="t5">🌏✅♼</p>
+                <p id="t3">🥀😷</p>
+                <p id="t1">🌏✅</p>
+                <p id="t7">☠️🐟☠️</p>
+                <p id="t6">🥀😷</p>       
+                <p id="t9">🧪💀🧪</p>
+                
+            </div>
+            <script>
+                let togg1 = document.getElementById("togg1");        
+                togg1.addEventListener("click", () => {
+                if(p1==1 && p2==1){
+                    t1.style.display = "none";
+                } 
+                if((p1==1 && p2==2)||(p1==2 && p2==1)){
+                    t2.style.display = "none";
+                } 
+                if((p1==1 && p2==3)||(p1==3 && p2==1)){
+                    t3.style.display = "none";
+                } 
+                if((p1==1 && p2==4)||(p1==4 && p2==1)){
+                    t4.style.display = "none";
+                } 
+                if(p1==2 && p2==2){
+                    t5.style.display = "none";
+                } 
+                if((p1==2 && p2==3)||(p1==3 && p2==2)){
+                    t6.style.display = "none";
+                } 
+                if((p1==2 && p2==4)||(p1==4 && p2==2)){
+                    t7.style.display = "none";
+                } 
+                if(p1==3 && p2==3){
+                    t8.style.display = "none";
+                } 
+                if(p1==4 && p2==4){
+                    t9.style.display = "none";
+                } 
+                if((p1==3 && p2==4)||(p1==4 && p2==3)){
+                    t10.style.display = "none";
+                }
+                })
+            </script>
+        </article>
+    </section>
+</body>
+</html>

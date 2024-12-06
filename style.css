@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    font-family: 'Exo 2';
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #3586ff;
+}
+
+div.wave, div.back_wave {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: url(./images/water-wave.png);
+    background-size: 100px;
+    z-index: -1;
+}
+
+div.wave {
+    animation: wave 30s linear infinite;
+    animation-delay: 0s;
+    bottom: 0px;
+}
+
+div.back_wave {
+    animation: back_wave 15s linear infinite;
+    opacity: 0.5;
+    animation-delay: 0s;
+    bottom: 12px;
+}
+
+@keyframes wave {
+    0% {
+        background-position-x: 0px; 
+    }
+    100% {
+        background-position-x: -900px; 
+    }
+}
+
+@keyframes back_wave {
+    0% {
+        background-position-x: 0px; 
+    }
+    100% {
+        background-position-x: -800px;
+    }
+}
+
+header {
+    margin: 5px;
+    padding: 10px;
+    background-color: #FFF5C2;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 20px;
+}
+
+a {
+    padding: 5px;
+    text-decoration: none;
+    font-size: larger;
+}
+
+a:hover {
+    background-color: #3081D0;
+    border-radius: 20px;
+}
+
+section {
+    margin: 20px 5px;
+    padding: 10px;
+    border-left: solid #FFF5C2;
+    border-radius: 20px;
+    background-color: #fff5c22c;
+}
+
+article {
+    margin: 5px;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: #3080d0d2;
+}
+
+#body {
+    display: flex;
+    margin: 5px;
+    justify-content: space-around;
+}
+
+#body div {
+    margin: 5px;
+}
+
+#body div article {
+    display: none;
+}
+
+#body div:hover article {
+    display: block;
+}
+
+audio {
+    margin: 5px;
+}
+
+footer {
+    margin: 5px;
+    padding: 10px;
+    background-color: #fff5c2dc;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 20px;
+}
+
+#links {
+    display: flex;
+    align-items: center;
+}
+
+@media only screen and (max-width: 600px) {
+    #body {
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    #body div img {
+        margin: 5px;
+    }
+
+    #links{
+        flex-direction: column;
+    }
+}
